@@ -3,7 +3,12 @@ Extract and Analyse Facebook data - I will add Instructions and useage examples 
 
 ### MOST BACIS USAGE 
 
-        all_pre_processing(Zipp_path,save_unzipped, delete=True, save=True)
+        import Facebook_Chat_Analysis as fca
+        unzip='.zip'  #PATH TO ZIP FOLDER
+        destination='/home/patrick/Desktop/Patrick_Scripts/Facebook_Analysis/Testing_Functions'  #PATH YOU WON'T STUFF SAVED 
+        #Run the Function
+        fca.all_pre_processing(unzip,destination, delete=True, save=True)
+
 
 This function works as follows:
 

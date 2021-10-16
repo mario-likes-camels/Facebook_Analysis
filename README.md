@@ -5,6 +5,7 @@ Extract and Analyse Facebook data - I will add Instructions and useage examples 
 
         all_pre_processing(Zipp_path,save_unzipped, delete=True, save=True)
 
+This function works as follows:
 
         '''Takes Zipped Facebook data, extracts, pre-processes and saved an All_Chat_History csv and individual chat Text Files.
 

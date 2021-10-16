@@ -1,9 +1,9 @@
 # Facebook_Analysis
 Extract and Analyse Facebook data - I will add Instructions and useage examples later (below is the easiest/recommend use)
 
-## MOST BACIS USAGE 
+### MOST BACIS USAGE 
 
-'''all_pre_processing(Zipp_path,save_unzipped, delete=True, save=True)'''
+        all_pre_processing(Zipp_path,save_unzipped, delete=True, save=True)
 
 
 Takes Zipped Facebook data, extracts, pre-processes and saved an All_Chat_History csv and individual chat Text Files.

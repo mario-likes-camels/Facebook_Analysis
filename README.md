@@ -1,6 +1,13 @@
 # Facebook_Analysis
 Extract and Analyse Facebook data - I will add Instructions and useage examples later (below is the easiest/recommend use)
 
+### PRIOR TO USING THIS PACKAGE
+Please ensure you have downloaded you facebook data.
+
+This can be done via the privacy settings on Facebook. 
+
+Please ensure that you download in JSON format. 
+
 ### MOST BACIS USAGE 
 
         import Facebook_Chat_Analysis as fca

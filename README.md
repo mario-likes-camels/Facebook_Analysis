@@ -12,7 +12,7 @@ Please ensure that you download in JSON format.
 
         import Facebook_Chat_Analysis as fca
         unzip='.zip'  #PATH TO ZIP FOLDER
-        destination='/home/patrick/Desktop/Patrick_Scripts/Facebook_Analysis/Testing_Functions'  #PATH YOU WON'T STUFF SAVED 
+        destination=' '  #PATH YOU WON'T STUFF SAVED 
         #Run the Function
         fca.all_pre_processing(unzip,destination, delete=True, save=True)
 

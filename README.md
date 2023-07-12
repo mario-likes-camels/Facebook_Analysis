@@ -8,6 +8,10 @@ This can be done via the privacy settings on Facebook.
 
 Please ensure that you download in JSON format. 
 
+### Instalation
+        pip install Facebook-Chat-Analysis
+
+
 ### MOST BACIS USAGE 
 
         import Facebook_Chat_Analysis as fca

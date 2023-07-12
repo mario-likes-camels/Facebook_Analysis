@@ -11,8 +11,8 @@ Please ensure that you download in JSON format.
 ### MOST BACIS USAGE 
 
         import Facebook_Chat_Analysis as fca
-        unzip='.zip'  #PATH TO ZIP FOLDER
-        destination=' '  #PATH YOU WON'T STUFF SAVED 
+        unzip='.zip'  #PATH TO ZIP FOLDER - All Data Downloaded from FB
+        destination=' '  #PATH WHERE YOU WANT STUFF SAVED 
         #Run the Function
         fca.all_pre_processing(unzip,destination, delete=True, save=True)
 
